@@ -1,2 +1,2 @@
 # Wizard101-Bazaar-Tc-Farming
-TODO
+Imagesearch.py is my modified version of https://github.com/drov0/python-imagesearch.
