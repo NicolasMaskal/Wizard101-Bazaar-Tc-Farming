@@ -4,6 +4,7 @@ I was in a desperate need of some rare/uncommon treasure cards so I could mainta
 
 ## If your monitor isn't 1920x1080 the bot won't work(skip if you can switch to 1920x1080)
 There are 20 images that are crucial to the bot all of other ones are optional(Well you must have atleast one treasure card, otherwise the bot is useless).
+
 Crucial ones:
 ```
 house_items = "house_items.png"
