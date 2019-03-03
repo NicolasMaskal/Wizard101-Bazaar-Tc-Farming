@@ -50,7 +50,7 @@ fire_tcs = [tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_
 
 * I couldn't get OCR to work correctly so I had to **manually** crop evey single image you see here. If someone can get OCR to work with this bot, that would be much appreciated.
 
-* This bot isn't very fast, searching for so many images at a time is time consuming. But on the positive side I haven't had any warnings from kingsisle, so the bot is safe to use.
+* This bot isn't very fast, searching for so many images at a time is time consuming. But on the positive side I haven't had any warnings from kingsisle, so the bot is safe to use. **On the off chance you get banned for using my bot, I take no responsibility, it is/was your decision to use my bot**
 
 # Steps to get the bot running
 
