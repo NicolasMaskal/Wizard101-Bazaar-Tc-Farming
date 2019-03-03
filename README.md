@@ -1,8 +1,17 @@
 # Wizard101-Bazaar-Tc-Farming
+### Some Background
 I was in a desperate need of some rare/uncommon treasure cards so I could maintain my pvp career(lol). So while I was manually clicking refresh and looking for treasure cards I need, it hit me that I could create a bot to do it for me. Eventually, I had more than enough tc's so I decided to look for a way to make a profit out of this. I found a discord server for trading where I "sold" my treasure cards for empower(which were traded for crowns items in the same server). At that time I wasn't even playing the game I was just trading to get more empowers to buy crown items from players(because let's face it, crowns are expensive). I stopped playing the game about 6 months ago because I realized that it was a huge time killer and all I had been doing was trading. Recently. I've decided to start uploading my bots  to see if someone's interested. This is the first bot I've decided to upload and they are many more to come. Feel free to contact me about anything.
 
-
-
+# What does the bot actually do?
+I uploaded 79 treasure cards that are/were valuable to a pvp-er or collecter. I imagine you don't want the bot to buy every tc I uploaded, to fix this just delete the ones you don't want here:
+**Example** 
+```
+fire_tcs = [tc_fiery_giant, tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_kraken]
+```
+I don't want the bot to buy fiery giants so I just delete it. I don't delete the file(because I may want it at some point) I just remove it from this list
+```
+fire_tcs = [tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_kraken]
+```
 
 # Steps to get the bot running if your monitor is 1920x1080
 
