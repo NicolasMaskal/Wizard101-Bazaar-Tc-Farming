@@ -62,4 +62,4 @@ fire_tcs = [tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_
 
 4. Profit! (Well, kinda)
 
-Imagesearch.py is my modified version of [@drov0's](https://github.com/drov0/python-imagesearch). He has a blog post about botting which I reccommend to read.
+Imagesearch.py is my modified version of [@drov0's](https://github.com/drov0/python-imagesearch). He has a blog post about botting which I reccommend to [read[(https://steemit.com/python/@howo/image-recognition-for-automation-with-python).
