@@ -43,7 +43,10 @@ I don't want the bot to buy fiery giants so I just delete it. I don't delete the
 ```
 fire_tcs = [tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_kraken]
 ```
-* I had an almost infinite amount of gold(due to my halfang bot, which will also be uploaded in the near future) and I decided it was worth it to buy empowers if they are for 3200 gold each. I recommend you starting at near max gold if you want the bot to buy empowers
+* I had an almost infinite amount of gold(due to my halfang bot, which will also be uploaded in the near future) and I decided it was worth it to buy empowers if they are for 3200 gold each. I recommend you starting at near max gold if you want the bot to buy empowers, If you don't then don't forget to remove tc_empower from the list.
+
+* The bot looks at the first 6 pages(death school 11 pages because of the empower logic). If you're not buying empower switch to 6
+`searching_for_tcs_in_one_school(death_tcs, 11)` to `searching_for_tcs_in_one_school(death_tcs, 6)`
 
 * I couldn't get OCR to work correctly so I had to **manually** crop evey single image you see here. If someone can get OCR to work with this bot, that would be much appreciated.
 
