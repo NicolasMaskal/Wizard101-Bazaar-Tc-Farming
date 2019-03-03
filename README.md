@@ -45,8 +45,7 @@ fire_tcs = [tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_
 ```
 * I had an almost infinite amount of gold(due to my halfang bot, which will also be uploaded in the near future) and I decided it was worth it to buy empowers if they are for 3200 gold each. I recommend you starting at near max gold if you want the bot to buy empowers, If you don't then don't forget to remove tc_empower from the list.
 
-* The bot looks at the first 6 pages(death school 11 pages because of the empower logic). If you're not buying empower switch to 6
-`searching_for_tcs_in_one_school(death_tcs, 11)` to `searching_for_tcs_in_one_school(death_tcs, 6)`
+* The bot looks at the first 6 pages(death school 11 pages because of the empower logic). If you're not buying empower switch to 6. Change `searching_for_tcs_in_one_school(death_tcs, 11)` to `searching_for_tcs_in_one_school(death_tcs, 6)`
 
 * I couldn't get OCR to work correctly so I had to **manually** crop evey single image you see here. If someone can get OCR to work with this bot, that would be much appreciated.
 
@@ -58,6 +57,6 @@ fire_tcs = [tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_
 
 3. Start "Farming_Bazaar.py"
 
-4. Profit!
+4. Profit! (Well, kinda)
 
-Imagesearch.py is my modified version of https://github.com/drov0/python-imagesearch.
+Imagesearch.py is my modified version of [@drov0's](https://github.com/drov0/python-imagesearch). He has a blog post about botting which I reccommend to read.
