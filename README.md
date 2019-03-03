@@ -52,6 +52,8 @@ fire_tcs = [tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_
 
 * This bot isn't very fast, searching for so many images at a time is time consuming. But on the positive side I haven't had any warnings from kingsisle, so the bot is safe to use. **On the off chance you get banned for using my bot, I take no responsibility, it is/was your decision to use my bot**
 
+* English Isn't My First Language, feel free to correct grammar.
+
 # Steps to get the bot running
 
 1. pip3 install -r requirements.txt
