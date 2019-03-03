@@ -30,10 +30,10 @@ death_symbol = "death_symbol.png"
 balance_symbol = "balance_symbol.png"
 astral_symbol = "astral_symbol.png"
 ```
-So these are the first ones you should retake. Also edit the x,y positions of `imgs.moving_clicking_on_positions_x_y((1126, 390))` where your '#' symbol is.
+So these are the first ones you should retake. Also edit the x,y positions of `imgs.moving_clicking_on_positions_x_y((1126, 390))` where your '#' symbol is in the bazaar.
 
 ## Notes
-I uploaded 79 treasure cards that are/were valuable to a pvp-er or collecter. I imagine you don't want the bot to buy every single tc I uploaded, to fix this just delete the ones you don't want.
+* I uploaded 79 treasure cards that are/were valuable to a pvp-er or collecter. I imagine you don't want the bot to buy every single tc  I uploaded, to fix this just delete the ones you don't want.
 
 #### Example:
 ```
@@ -43,8 +43,9 @@ I don't want the bot to buy fiery giants so I just delete it. I don't delete the
 ```
 fire_tcs = [tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_kraken]
 ```
+* I had an almost infinite amount of gold(due to my halfang bot, which will also be uploaded in the near future) and I decided it was worth it to buy empowers if they are for 3200 gold each. I recommend you starting at near max gold if you want the bot to buy empowers
 
-I couldn't get OCR to work correctly so I had to **manually** crop evey single image you see here. If someone can get OCR to work with this bot, that would be much appreciated.
+* I couldn't get OCR to work correctly so I had to **manually** crop evey single image you see here. If someone can get OCR to work with this bot, that would be much appreciated.
 
 # Steps to get the bot running
 
