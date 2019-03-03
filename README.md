@@ -4,7 +4,7 @@ I was in a desperate need of some rare/uncommon treasure cards so I could mainta
 
 
 
-**Steps to get the bot running if your monitor is 1920x1080**
+# Steps to get the bot running if your monitor is 1920x1080
 
 1. pip3 install -r requirements.txt
 
