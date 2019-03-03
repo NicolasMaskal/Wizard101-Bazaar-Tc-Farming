@@ -54,6 +54,8 @@ fire_tcs = [tc_firezilla, tc_fire_beetle, tc_fire_wall,tc_hephaestus, tc_raging_
 
 * English Isn't My First Language, feel free to correct grammar.
 
+* Videe of the bot working will be uploaded in the near future
+
 # Steps to get the bot running
 
 1. pip3 install -r requirements.txt
